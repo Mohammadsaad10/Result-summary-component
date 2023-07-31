@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-resultsummarycomponent-using-css-flexbox-_7OwPMIFbm))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mohammadsaad10.github.io/Result-summary-component/))
+- Solution URL:([https://your-solution-url.com(https://www.frontendmentor.io/solutions/responsive-resultsummarycomponent-using-css-flexbox-_7OwPMIFbm))
+- Live Site URL: [Add live site URL here([https://your-live-site-url.com](https://mohammadsaad10.github.io/Result-summary-component/))
 
 ## My process
 
