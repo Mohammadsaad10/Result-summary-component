@@ -13,9 +13,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -35,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-resultsummarycomponent-using-css-flexbox-_7OwPMIFbm))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mohammadsaad10.github.io/Result-summary-component/))
 
 ## My process
 
@@ -53,8 +50,6 @@ Users should be able to:
 
 
 ## Author
-
-- Website - [Mohammadsaad](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
