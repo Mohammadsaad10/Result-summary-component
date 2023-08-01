@@ -50,6 +50,6 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@Mohammadsaad10]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Mohammadsaad10)https://www.frontendmentor.io/profile/Mohammadsaad10)
+- Frontend Mentor - [@Mohammadsaad10](https://www.frontendmentor.io/profile/Mohammadsaad10)https://www.frontendmentor.io/profile/Mohammadsaad10)
 
 
