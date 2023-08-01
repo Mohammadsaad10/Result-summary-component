@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://www.frontendmentor.io/solutions/responsive-resultsummarycomponent-using-css-flexbox-_7OwPMIFbm))
-- Live Site URL:(https://mohammadsaad10.github.io/Result-summary-component/))
+- Solution URL:[solution URL here](https://www.frontendmentor.io/solutions/responsive-resultsummarycomponent-using-css-flexbox-_7OwPMIFbm)
+- Live Site URL:[Live Site URL here](https://mohammadsaad10.github.io/Result-summary-component/)
 
 ## My process
 
@@ -50,6 +50,6 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@Mohammadsaad10](https://www.frontendmentor.io/profile/Mohammadsaad10)https://www.frontendmentor.io/profile/Mohammadsaad10)
+- Frontend Mentor - [@I'Mohammadsaad..](https://www.frontendmentor.io/profile/Mohammadsaad10)
 
 
